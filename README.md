@@ -35,7 +35,7 @@ PORT=3000
 MONGODB_URI=mongodb+srv://user:password@cluster0.ab12c.mongodb.net/notely
 ```
 
-In Atlas, get it from **Connect → Drivers**. For a local database, use `mongodb://127.0.0.1:27017/notely`.
+In Atlas, get it from **Connect** (either the Compass or Drivers tab works), then add your password and database name. For a local database, use `mongodb://127.0.0.1:27017/notely`.
 
 Then start it:
 
