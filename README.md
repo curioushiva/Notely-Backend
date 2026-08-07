@@ -9,7 +9,7 @@ The app lives one folder down.
 ```text
 .
 ├── README.md
-└── Notely-Backend/
+└── notely-backend/
     ├── server.js
     ├── .env.example
     └── src/
@@ -23,7 +23,7 @@ Requires Node 18+ and a MongoDB database ([Atlas](https://www.mongodb.com/atlas)
 
 ```bash
 git clone <your-repo-url>
-cd Notely-Backend/Notely-Backend
+cd notely-backend/notely-backend
 npm install
 cp .env.example .env
 ```
